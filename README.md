@@ -1,6 +1,6 @@
 # Google Cloud Platform Go Samples
 
-[![Kokoro Build Status][kokoro_badge]][kokoro_li
+[![Kokoro Build Status][kokoro_badge]][kokoro_link]
 
 This repository holds sample code written in Go that demonstrates the Google
 Cloud Platform.
