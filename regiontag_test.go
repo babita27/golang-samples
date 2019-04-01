@@ -113,6 +113,6 @@ func TestRegionTags(t *testing.T) {
 	}
 
 	for tag := range merge(cs[:]...) {
-		t.Errorf("\nFile gdh: %v\nLine: %#v", tag.file, tag.line)
+		t.Errorf("\nFile: %v\nLine: %#v", tag.file, tag.line)
 	}
 }
